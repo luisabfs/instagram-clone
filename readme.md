@@ -1,8 +1,8 @@
 # Instagram Clone
 
-Simple cloning of the famous social media, Instagram. 
+> Simple cloning of the famous social media, Instagram.
 
-Main functionalities are: posting photos on your own profile and seeing you friend's photos.
+Main functionalities are: posting photos on your own profile and seeing your friend's photos.
 
 IDE: Android Studio 3.0.1
 
