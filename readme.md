@@ -1,7 +1,10 @@
 # Instagram Clone
 
-Simple clone of the famous social media Instagram using Java, Parse - for authentication, file and data storage. 
+Simple cloning of the famous social media, Instagram. 
 
-The main functionalities are posting photos on your own profile and seeing you friend's posts and photos, like a photo portfolio.
+Main functionalities are: posting photos on your own profile and seeing you friend's photos.
 
 IDE: Android Studio 3.0.1
+Programming language: Java
+Backend server: Parse (back4app)
+
